@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BeaversTreesWater
-- 👀 I’m interested in GIS, Python and data analysis
+- 👀 I’m interested in Beavers, Restoration, GIS, Python and Data Analysis
 - 🌱 I’m currently learning GitHub, GEE, ArcPy, and Ecological Restoration
 - 🏫 Utah State University Graduate Student
 - 📫 How to reach me a02458116@usu.edu
